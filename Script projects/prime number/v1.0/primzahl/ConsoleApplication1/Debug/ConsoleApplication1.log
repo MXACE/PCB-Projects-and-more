@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+d:\c++\primzahl\consoleapplication1\consoleapplication1.cpp(43): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+d:\c++\primzahl\consoleapplication1\consoleapplication1.cpp(17): warning C4477: 'scanf_s' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'unsigned __int64 *'
+  d:\c++\primzahl\consoleapplication1\consoleapplication1.cpp(17): note: consider using '%lli' in the format string
+  d:\c++\primzahl\consoleapplication1\consoleapplication1.cpp(17): note: consider using '%I64i' in the format string
+d:\c++\primzahl\consoleapplication1\consoleapplication1.cpp(73): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  d:\c++\primzahl\consoleapplication1\consoleapplication1.cpp(73): note: consider using '%lli' in the format string
+  d:\c++\primzahl\consoleapplication1\consoleapplication1.cpp(73): note: consider using '%I64i' in the format string
+  ConsoleApplication1.vcxproj -> D:\c++\primzahl\ConsoleApplication1\Debug\ConsoleApplication1.exe
