@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+12 Pin=P1-1
+Removed Pin From Net: NetName=+3.3 Pin=P2-1
+Removed Pin From Net: NetName=+9 Pin=P3-1
+Removed Member From Class: ClassName=USBPowerv1.0 Member=P1
+Removed Member From Class: ClassName=USBPowerv1.0 Member=P2
+Removed Member From Class: ClassName=USBPowerv1.0 Member=P3

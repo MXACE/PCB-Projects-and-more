@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+C:\Users\Marco\OneDrive - TBZ\USBPower\pcb\USBPower\PCB Project Outputs\Pick Place\Pick Place for USBPowerv1.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       31.08.20
+Time:       08:02
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment            Layer    Footprint          Center-X(mm) Center-Y(mm) Rotation Description                                                        
+U5         "USB A 2.0"        TopLayer OST_USB-A1HSW6     13.4620      11.3780      0        ""                                                                 
+U4         "USB A 2.0"        TopLayer USB_A_2.0_Male     13.5890      54.4195      360      ""                                                                 
+R7         1k                 TopLayer RES_0603i_1608m_-N 5.4610       41.7830      270      Resistor                                                           
+D3         Grün               TopLayer *0603              3.0480       41.7830      90       "LED; SMD; 0603; grün; 35mcd; 1.6x0.8x0.55mm; 130Â°; 2Ã·2.V; 20mA" 
+U3         TS1935BCX5         TopLayer *SOT95P285X145-5N  12.4460      19.9390      180      "TS1935BCX5 Boost-Schaltregler Adj 1,9A 2,6-5,5Vi SOT23-5"         
+U2         FP6298XR-G1        TopLayer SOP8               6.8354       26.2128      360      ""                                                                 
+U1         UZ1084G-3.3V-TN3-R TopLayer TO-252-2           11.6110      34.0360      270      "LINEAR VOLTAGE REGULATORS TO-252-2(DPAK) ROHS"                    
+R6         51k                TopLayer RES_0603i_1608m_-N 17.3990      21.0820      360      ""                                                                 
+R5         160k               TopLayer RES_0603_1608m_-L  3.6950       30.6070      180      Resistor                                                           
+R4         13k                TopLayer RES_0603_1608m_-L  12.1920      24.7650      90       Resistor                                                           
+R3         470k               TopLayer RES_0603i_1608m_-N 17.3990      19.4310      180      ""                                                                 
+R2         1M                 TopLayer RES_0603i_1608m_-N 9.5250       19.9390      90       ""                                                                 
+R1         180k               TopLayer RES_0603_1608m_-L  15.2400      25.5270      360      Resistor                                                           
+P4         "Header 2"         TopLayer 3.81mm_HDR1X2      22.8600      18.2880      90       "Header, 2-Pin"                                                    
+P3         "Header 2"         TopLayer 3.81mm_HDR1X2      22.8600      25.9080      90       "Header, 2-Pin"                                                    
+P2         "Header 2"         TopLayer 3.81mm_HDR1X2      22.8600      41.1480      90       "Header, 2-Pin"                                                    
+P1         "Header 2"         TopLayer 3.81mm_HDR1X2      22.8600      33.5280      90       "Header, 2-Pin"                                                    
+L2         4.7uH              TopLayer IND_0603i_1608m_-L 12.5730      17.3990      360      Inductor                                                           
+L1         4.7uH              TopLayer IND_0603i_1608m_-L 12.3190      28.8290      270      Inductor                                                           
+D1         "Diode  Schottky"  TopLayer SOD123             15.7480      28.1940      180      "Schottky Diode"                                                   
+D2         "Diode  Schottky"  TopLayer SOD123             16.5100      17.3990      180      "Schottky Diode"                                                   
+C8         1nF                TopLayer CAP_0402i_1005m_-N 10.5410      22.4790      360      capacitor                                                          
+C7         10uF               TopLayer CAP_0603i_1608m_-L 19.1770      34.4170      270      capacitor                                                          
+C6         10uF               TopLayer CAP_0603i_1608m_-L 3.6830       31.8770      360      capacitor                                                          
+C5         10uF               TopLayer CAP_0603i_1608m_-L 20.0660      18.1610      270      capacitor                                                          
+C4         10uF               TopLayer CAP_0603i_1608m_-L 7.8740       18.4150      90       capacitor                                                          
+C3         22uF               TopLayer CAP_0805i_2012m_-N 18.0340      24.7650      270      capacitor                                                          
+C2         22uF               TopLayer CAP_0805i_2012m_-N 14.9860      23.7490      360      capacitor                                                          
+C1         10uF               TopLayer CAP_0603i_1608m_-L 1.5240       24.8920      90       capacitor                                                          

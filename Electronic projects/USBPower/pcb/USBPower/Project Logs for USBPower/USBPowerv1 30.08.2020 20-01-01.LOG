@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+5 Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-5
+Removed Pin From Net: NetName=GND Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=P4-6
+Removed Pin From Net: NetName=+5 Pin=P5-1
+Removed Pin From Net: NetName=GND Pin=P5-5
+Removed Pin From Net: NetName=GND Pin=P5-6
+Removed Pin From Net: NetName=GND Pin=P5-6
+Removed Pin From Net: NetName=GND Pin=P5-6
+Removed Pin From Net: NetName=GND Pin=P5-6
+Removed Pin From Net: NetName=GND Pin=P5-6
+Removed Pin From Net: NetName=GND Pin=P5-6
+Removed Member From Class: ClassName=USBPowerv1.0 Member=P5
+Removed Member From Class: ClassName=USBPowerv1.0 Member=P9
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=P6 NewDesignator=P1
+Change Component Designator: OldDesignator=P7 NewDesignator=P2
+Change Component Designator: OldDesignator=P8 NewDesignator=P3
+Change Component Designator: OldDesignator=P9 NewDesignator=P4
+Added Component: Designator=U4(USB A 2.0 Male)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(OST_USB-A1HSW6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=+5 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-4
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Pin To Net: NetName=NetU4_2 Pin=U5-2
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=NetU4_3 Pin=U4-3
+Added Pin To Net: NetName=NetU4_3 Pin=U5-3
+Added Net: Name=NetU4_3
+Added Member To Class: ClassName=USBPowerv1.0 Member=Component U4 USB A 2.0
+Added Member To Class: ClassName=USBPowerv1.0 Member=Component U5 USB A 2.0
