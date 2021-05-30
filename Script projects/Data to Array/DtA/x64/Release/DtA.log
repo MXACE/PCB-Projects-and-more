@@ -1,0 +1,19 @@
+﻿  main.cpp
+d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(39): warning C4477: "scanf_s": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int *", das variadic-Argument "1" weist aber den Typ "unsigned char *" auf.
+  d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(39): note: Verwenden Sie ggf. "%hhi" in der Formatzeichenfolge.
+d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(70): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(70): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(70): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(70): note: Dieses Argument wird als Puffergröße verwendet.
+d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(78): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(78): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(78): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(78): note: Dieses Argument wird als Puffergröße verwendet.
+d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(96): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(96): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(96): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  d:\onedrive\onedrive - tbz\c++\datatoarray\dta\main.cpp(96): note: Dieses Argument wird als Puffergröße verwendet.
+  Code wird generiert.
+  All 175 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  DtA.vcxproj -> D:\onedrive\OneDrive - TBZ\C++\DataToArray\DtA\x64\Release\DtA.exe

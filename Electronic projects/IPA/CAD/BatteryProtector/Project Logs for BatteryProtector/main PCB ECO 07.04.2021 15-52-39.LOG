@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=P8-1
+Removed Pin From Net: NetName=NetP8_2 Pin=P8-2
+Removed Pin From Net: NetName=GND Pin=P10-1
+Removed Pin From Net: NetName=NetP10_4 Pin=P10-4
+Removed Pin From Net: NetName=GND Pin=P11-1
+Removed Pin From Net: NetName=NetP10_4 Pin=P11-4
+Removed Pin From Net: NetName=NetP10_3 Pin=R18-2
+Removed Pin From Net: NetName=NetP10_3 Pin=R20-2
+Removed Pin From Net: NetName=NetP10_2 Pin=R27-2
+Removed Pin From Net: NetName=NetP10_2 Pin=R29-2
+Change Component Footprint: Designator=P10 Old Footprint=JST_S4B-XH-A(LF)(SN) New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Component Footprint: Designator=P11 Old Footprint=JST_S4B-XH-A(LF)(SN) New Footprint=JST_B4B-XH-A(LF)(SN)
+Added Component: Designator=R37(RES_0402m_1005i -L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP8_2 Pin=P8-1
+Added Pin To Net: NetName=+3.3 Pin=P8-2
+Added Pin To Net: NetName=NetP10_4 Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-4
+Added Pin To Net: NetName=NetP10_4 Pin=P11-1
+Added Pin To Net: NetName=GND Pin=P11-4
+Added Pin To Net: NetName=NetP10_2 Pin=R18-2
+Added Pin To Net: NetName=NetP10_2 Pin=R20-2
+Added Pin To Net: NetName=NetP10_3 Pin=R27-2
+Added Pin To Net: NetName=NetP10_3 Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=NetP8_2 Pin=R37-2
+Change Net Name : Old Net Name=NetP8_2 New Net Name=NetP8_1
+Change Net Name : Old Net Name=NetP10_4 New Net Name=NetP10_1
+Added Member To Class: ClassName=main Member=Component R37 ?
+Added Room: Name=main

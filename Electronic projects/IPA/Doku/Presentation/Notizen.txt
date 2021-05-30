@@ -1,0 +1,20 @@
+Probleme Footprints:
+uC
+powersupply schaltung
+
+
+Optimierungen:
+D1 LED
+Vielleicht Bauteile von Bot Seite (ausser Strom) auf Top platzieren.
+Balancer: Differenzverstärker
+Grössere Schrift auf Soldermask
+Zum programmieren brauchts Speisung bei IN
+led hinter schalter nach vorne nehmen
+
+Charger Pads als SMD wegen Kühlkörper
+Fertig bestückter Print zeigen
+Vergleich Grösse mit Akku
+noch keine software
+
+kosten
+

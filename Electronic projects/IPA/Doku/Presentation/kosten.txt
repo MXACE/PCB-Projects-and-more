@@ -1,0 +1,11 @@
+geschätzte kosten (einzelpreise)
+digikey: 136.16 CHF
+
+
+tatsächliche kosten:
+digikey: 143.45 CHF
+jlcpcb: 72.71 CHF
+
+total: 216.16 CHF
+
+pro Print: 43.23 CHF

@@ -1,0 +1,3 @@
+Since a few circuits needs two resistors for a amplifier, you can enter the amplification and it returns the best resistor pair.
+
+For now only a excel file is availble. A programm is WIP.

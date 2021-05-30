@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetP7_2 Pin=U3-19
+Removed Pin From Net: NetName=NetP7_1 Pin=U3-20
+Removed Pin From Net: NetName=NetP7_1 Pin=U4-7
+Removed Pin From Net: NetName=NetP7_2 Pin=U4-10
+Added Pin To Net: NetName=NetP7_1 Pin=U3-19
+Added Pin To Net: NetName=NetP7_2 Pin=U3-20
+Added Pin To Net: NetName=NetP7_2 Pin=U4-7
+Added Pin To Net: NetName=NetP7_1 Pin=U4-10
+Added Member To Class: ClassName=main Member=Component J1 690-005-299-043
+Added Member To Class: ClassName=main Member=Component U5 LM324KADR
