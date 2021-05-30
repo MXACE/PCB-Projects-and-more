@@ -1,0 +1,25 @@
+LED Indicator for the GoKart for driving
+Communication with UART 9600 8n1
+
+The LEDs are at the begin blue until it receives the first correct 6 bytes
+
+Send 6 Bytes:
+1-2
+Wheel led bar
+First for position green
+Second for position red
+3-5
+RGB single LED
+Fourth Red value
+Fifth Green value
+Sixth Blue value
+6
+CRC MAXIM
+(poly=0x31 init=0x00 refin=true refout=true xorout=0x00 check=0xa1)
+
+->Position starts with 0!
+  
+Serial timeout at 1 second
+If check fails it sends back a 'E'
+
+Marco Stauber, 20.1.2020
