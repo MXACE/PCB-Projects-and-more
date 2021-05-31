@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=NetJ1_4 Pin=P1-2
+Removed Pin From Net: NetName=NetP1_3 Pin=P1-3
+Removed Pin From Net: NetName=NetJ2_4 Pin=P2-2
+Removed Pin From Net: NetName=NetP2_3 Pin=P2-3
+Removed Pin From Net: NetName=NetJ3_4 Pin=P3-2
+Removed Pin From Net: NetName=NetP3_3 Pin=P3-3
+Removed Pin From Net: NetName=NetJ4_4 Pin=P4-2
+Removed Pin From Net: NetName=NetP4_3 Pin=P4-3
+Removed Pin From Net: NetName=NetJ5_4 Pin=P5-2
+Removed Pin From Net: NetName=NetP5_3 Pin=P5-3
+Removed Pin From Net: NetName=NetJ6_4 Pin=P6-2
+Removed Pin From Net: NetName=NetP6_3 Pin=P6-3
+Removed Pin From Net: NetName=NetJ7_4 Pin=P7-2
+Removed Pin From Net: NetName=NetP7_3 Pin=P7-3
+Removed Pin From Net: NetName=NetJ8_4 Pin=P8-2
+Removed Pin From Net: NetName=NetP8_3 Pin=P8-3
+Removed Pin From Net: NetName=NetJ9_4 Pin=P9-2
+Removed Pin From Net: NetName=NetP9_3 Pin=P9-3
+Removed Pin From Net: NetName=NetJ10_4 Pin=P10-2
+Removed Pin From Net: NetName=NetP10_3 Pin=P10-3
+Added Pin To Net: NetName=NetP1_3 Pin=P1-2
+Added Pin To Net: NetName=NetJ1_4 Pin=P1-3
+Added Pin To Net: NetName=NetP2_3 Pin=P2-2
+Added Pin To Net: NetName=NetJ2_4 Pin=P2-3
+Added Pin To Net: NetName=NetP3_3 Pin=P3-2
+Added Pin To Net: NetName=NetJ3_4 Pin=P3-3
+Added Pin To Net: NetName=NetP4_3 Pin=P4-2
+Added Pin To Net: NetName=NetJ4_4 Pin=P4-3
+Added Pin To Net: NetName=NetP5_3 Pin=P5-2
+Added Pin To Net: NetName=NetJ5_4 Pin=P5-3
+Added Pin To Net: NetName=NetP6_3 Pin=P6-2
+Added Pin To Net: NetName=NetJ6_4 Pin=P6-3
+Added Pin To Net: NetName=NetP7_3 Pin=P7-2
+Added Pin To Net: NetName=NetJ7_4 Pin=P7-3
+Added Pin To Net: NetName=NetP8_3 Pin=P8-2
+Added Pin To Net: NetName=NetJ8_4 Pin=P8-3
+Added Pin To Net: NetName=NetP9_3 Pin=P9-2
+Added Pin To Net: NetName=NetJ9_4 Pin=P9-3
+Added Pin To Net: NetName=NetP10_3 Pin=P10-2
+Added Pin To Net: NetName=NetJ10_4 Pin=P10-3
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetP1_2
+Change Net Name : Old Net Name=NetP2_3 New Net Name=NetP2_2
+Change Net Name : Old Net Name=NetP3_3 New Net Name=NetP3_2
+Change Net Name : Old Net Name=NetP4_3 New Net Name=NetP4_2
+Change Net Name : Old Net Name=NetP5_3 New Net Name=NetP5_2
+Change Net Name : Old Net Name=NetP6_3 New Net Name=NetP6_2
+Change Net Name : Old Net Name=NetP7_3 New Net Name=NetP7_2
+Change Net Name : Old Net Name=NetP8_3 New Net Name=NetP8_2
+Change Net Name : Old Net Name=NetP9_3 New Net Name=NetP9_2
+Change Net Name : Old Net Name=NetP10_3 New Net Name=NetP10_2
+Added Member To Class: ClassName=schematic Member=Component C1 100n
+Added Member To Class: ClassName=schematic Member=Component D1 Grün
+Added Member To Class: ClassName=schematic Member=Component P8 header 4x1
+Added Member To Class: ClassName=schematic Member=Component P9 header 4x1
+Added Member To Class: ClassName=schematic Member=Component R13 5.1k
+Added Member To Class: ClassName=schematic Member=Component R15 5.1k
+Added Member To Class: ClassName=schematic Member=Component R22 1k
+Added Member To Class: ClassName=schematic Member=Component R23 NP

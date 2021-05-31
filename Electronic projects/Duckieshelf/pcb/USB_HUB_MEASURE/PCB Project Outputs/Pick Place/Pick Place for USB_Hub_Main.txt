@@ -1,0 +1,85 @@
+Altium Designer Pick and Place Locations
+C:\Users\Marco\OneDrive - TBZ\_arbeit\duckieshelf\pcb\USB_HUB_MEASURE\PCB Project Outputs\Pick Place\Pick Place for USB_Hub_Main.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23.09.20
+Time:       15:29
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment      Layer    Footprint                     Center-X(mm) Center-Y(mm) Rotation Description                                                                         
+P4         "header 4x1" TopLayer 4x1,_2.54mm,_smd              60.5000      50.0000      270      ""                                                                                  
+R23        NP           TopLayer RES_0603i_1608m_-N            69.9770      109.3470     90       Resistor                                                                            
+R20        5.1k         TopLayer RES_0603i_1608m_-N            30.8610      65.5000      180      Resistor                                                                            
+R19        5.1k         TopLayer RES_0603i_1608m_-N            43.0530      65.5000      180      Resistor                                                                            
+R18        5.1k         TopLayer RES_0603i_1608m_-N            54.8640      65.5000      180      Resistor                                                                            
+R17        5.1k         TopLayer RES_0603i_1608m_-N            66.9290      65.5000      180      Resistor                                                                            
+R16        5.1k         TopLayer RES_0603i_1608m_-N            78.8670      65.5000      180      Resistor                                                                            
+R15        5.1k         TopLayer RES_0603i_1608m_-N            90.8050      65.5000      180      Resistor                                                                            
+R14        5.1k         TopLayer RES_0603i_1608m_-N            102.9580     65.5000      180      Resistor                                                                            
+R13        5.1k         TopLayer RES_0603i_1608m_-N            114.9350     65.5000      180      Resistor                                                                            
+R12        5.1k         TopLayer RES_0603i_1608m_-N            126.8730     65.5000      180      Resistor                                                                            
+R11        5.1k         TopLayer RES_0603i_1608m_-N            138.9380     65.5000      180      Resistor                                                                            
+U12        SN74LV1T34   TopLayer SOT23-5-N                     67.1830      109.7280     90       "Single Power Supply Single Buffer GATE CMOS Logic Level Shifter"                   
+R24        350          TopLayer RES_0603i_1608m_-N            67.1830      105.3220     270      Resistor                                                                            
+U13        ARDUINO_NANO TopLayer *SHIELD_ARDUINO_NANO          110.6170     109.0930     90       "Dev.kit: Arduino; UART; ICSP, USB B mini, pin strips"                              
+U11        MAX11643EEG  TopLayer SOP63P602X175-24N             78.9940      90.6780      90       "8 Bit Analog to Digital Converter 16 Input 1 SAR 24-QSOP"                          
+U1         ZXCT1107SA-7 TopLayer SOT-23-M                      29.0000      61.7220      180      ""                                                                                  
+U2         ZXCT1107SA-7 TopLayer SOT-23-M                      41.0000      61.7220      180      ""                                                                                  
+U3         ZXCT1107SA-7 TopLayer SOT-23-M                      53.0000      61.7220      180      ""                                                                                  
+U4         ZXCT1107SA-7 TopLayer SOT-23-M                      65.0000      61.7220      180      ""                                                                                  
+U5         ZXCT1107SA-7 TopLayer SOT-23-M                      77.0000      61.7220      180      ""                                                                                  
+U6         ZXCT1107SA-7 TopLayer SOT-23-M                      89.0000      61.7220      180      ""                                                                                  
+U7         ZXCT1107SA-7 TopLayer SOT-23-M                      101.0000     61.7220      180      ""                                                                                  
+U8         ZXCT1107SA-7 TopLayer SOT-23-M                      113.0000     61.7220      180      ""                                                                                  
+U9         ZXCT1107SA-7 TopLayer SOT-23-M                      125.0000     61.7220      180      ""                                                                                  
+U10        ZXCT1107SA-7 TopLayer SOT-23-M                      137.0000     61.7220      180      ""                                                                                  
+R21        1k           TopLayer RES_0603i_1608m_-N            27.5590      110.5780     270      Resistor                                                                            
+R22        1k           TopLayer RES_0603i_1608m_-N            83.6930      114.2610     270      Resistor                                                                            
+R1         50m          TopLayer RES_0805i_2012m_-N            23.0000      61.8600      90       Resistor                                                                            
+R2         50m          TopLayer RES_0805i_2012m_-N            35.0000      61.8600      90       Resistor                                                                            
+R3         50m          TopLayer RES_0805i_2012m_-N            47.0000      61.8600      90       Resistor                                                                            
+R4         50m          TopLayer RES_0805i_2012m_-N            59.0000      61.8600      90       Resistor                                                                            
+R5         50m          TopLayer RES_0805i_2012m_-N            71.0000      61.8600      90       Resistor                                                                            
+R6         50m          TopLayer RES_0805i_2012m_-N            83.0000      61.8600      90       Resistor                                                                            
+R7         50m          TopLayer RES_0805i_2012m_-N            95.0000      61.8600      90       Resistor                                                                            
+R8         50m          TopLayer RES_0805i_2012m_-N            107.0000     61.8600      90       Resistor                                                                            
+R9         50m          TopLayer RES_0805i_2012m_-N            119.0000     61.8600      90       Resistor                                                                            
+R10        50m          TopLayer RES_0805i_2012m_-N            131.0000     61.8600      90       Resistor                                                                            
+P15        "Header 3"   TopLayer 3.5MM_Phoenix_Contact_1751251 68.1990      119.1260     360      "Header, 3-Pin"                                                                     
+P14        "header 7x1" TopLayer 7_pin,_3.5mm                  152.1460     59.4540      90       "right in"                                                                          
+P13        "header 7x1" TopLayer 7_pin,_3.5mm                  3.9370       59.4540      90       "left in"                                                                           
+P11        "header 7x1" TopLayer 7_pin,_3.5mm                  152.1460     85.5040      90       "right out"                                                                         
+P12        "header 7x1" TopLayer 7_pin,_3.5mm                  3.9370       85.5040      90       "left out"                                                                          
+P1         "header 4x1" TopLayer 4x1,_2.54mm,_smd              24.5000      50.0000      270      ""                                                                                  
+P2         "header 4x1" TopLayer 4x1,_2.54mm,_smd              36.5000      50.0000      270      ""                                                                                  
+P3         "header 4x1" TopLayer 4x1,_2.54mm,_smd              48.5000      50.0000      270      ""                                                                                  
+P5         "header 4x1" TopLayer 4x1,_2.54mm,_smd              72.5000      50.0000      270      ""                                                                                  
+P6         "header 4x1" TopLayer 4x1,_2.54mm,_smd              84.5000      50.0000      270      ""                                                                                  
+P7         "header 4x1" TopLayer 4x1,_2.54mm,_smd              96.5000      50.0000      270      ""                                                                                  
+P8         "header 4x1" TopLayer 4x1,_2.54mm,_smd              108.5000     50.0000      270      ""                                                                                  
+P9         "header 4x1" TopLayer 4x1,_2.54mm,_smd              120.5000     50.0000      270      ""                                                                                  
+P10        "header 4x1" TopLayer 4x1,_2.54mm,_smd              132.5000     50.0000      270      ""                                                                                  
+J11        PJ-080BH     TopLayer CUI_PJ-080BH                  38.1000      111.3960     270      "2.5 x 6.4 mm, 10.0 A, Horizontal, Through Hole, Shielded, Dc Power Jack Connector" 
+J1         "USB A 2.0"  TopLayer 54-00005                      24.3500      74.9140      270      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle"                      
+J2         "USB A 2.0"  TopLayer 54-00005                      36.3500      74.9140      270      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle"                      
+J3         "USB A 2.0"  TopLayer 54-00005                      48.3500      74.9140      270      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle"                      
+J4         "USB A 2.0"  TopLayer 54-00005                      60.3500      74.9140      270      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle"                      
+J5         "USB A 2.0"  TopLayer 54-00005                      72.3500      74.9140      270      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle"                      
+J6         "USB A 2.0"  TopLayer 54-00005                      84.3500      74.9140      270      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle"                      
+J7         "USB A 2.0"  TopLayer 54-00005                      96.3500      74.9140      270      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle"                      
+J8         "USB A 2.0"  TopLayer 54-00005                      108.3500     74.9140      270      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle"                      
+J9         "USB A 2.0"  TopLayer 54-00005                      120.3500     74.9140      270      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle"                      
+J10        "USB A 2.0"  TopLayer 54-00005                      132.3500     74.9140      270      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle"                      
+D1         Grün         TopLayer *0603                         27.5590      114.6420     270      "
+LED; SMD; 0603; grün; 35mcd; 1.6x0.8x0.55mm; 130Â°; 2Ã·2.V; 20mA
+"              
+D2         Grün         TopLayer *0603                         83.6930      118.1980     270      "
+LED; SMD; 0603; grün; 35mcd; 1.6x0.8x0.55mm; 130Â°; 2Ã·2.V; 20mA
+"              
+C1         100n         TopLayer CAP_0603i_1608m_-N            81.4070      96.7740      90       capacitor                                                                           
+C2         100n         TopLayer CAP_0603i_1608m_-N            78.9940      96.7740      270      capacitor                                                                           
+C3         100uF        TopLayer Cap_F-Type-Package            51.1810      108.9370     0        "Polarised capacitor (e.g. Electrolytic )"                                          

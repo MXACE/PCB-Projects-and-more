@@ -1,0 +1,32 @@
+%TF.GenerationSoftware,Altium Limited,Altium NEXUS,2.1.5 (53)*%
+G04 Layer_Color=255*
+%FSLAX44Y44*%
+%MOMM*%
+%TF.FileFunction,Pads,Bot*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,ComponentPad*%
+G04:AMPARAMS|DCode=13|XSize=1.1mm|YSize=2.8mm|CornerRadius=0.275mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=180.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD13*
+21,1,1.1000,2.2500,0,0,180.0*
+21,1,0.5500,2.8000,0,0,180.0*
+1,1,0.5500,-0.2750,1.1250*
+1,1,0.5500,0.2750,1.1250*
+1,1,0.5500,0.2750,-1.1250*
+1,1,0.5500,-0.2750,-1.1250*
+%
+%ADD13ROUNDEDRECTD13*%
+%ADD14C,1.5000*%
+D13*
+X128500Y227240D02*
+D03*
+X11500D02*
+D03*
+D14*
+X92500D02*
+D03*
+X47500D02*
+D03*
+%TF.MD5,597cb74bc1a8e166cfa5ee58a99a81b1*%
+M02*

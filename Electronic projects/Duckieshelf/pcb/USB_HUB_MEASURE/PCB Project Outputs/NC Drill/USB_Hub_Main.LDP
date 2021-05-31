@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Marco\OneDrive - TBZ\_arbeit\duckieshelf\pcb\USB_HUB_MEASURE\USB_Hub_Main.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=usb_hub_main-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=usb_hub_main-slotholes.txt|DrillLayers=gtl,gbl

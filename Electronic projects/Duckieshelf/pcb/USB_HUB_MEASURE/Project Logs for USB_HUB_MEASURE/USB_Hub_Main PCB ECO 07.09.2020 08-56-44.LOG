@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetU1_1 Pin=U11-1
+Removed Pin From Net: NetName=NetU2_1 Pin=U11-2
+Removed Pin From Net: NetName=NetU3_1 Pin=U11-3
+Removed Pin From Net: NetName=NetU4_1 Pin=U11-4
+Removed Pin From Net: NetName=NetU5_1 Pin=U11-5
+Removed Pin From Net: NetName=NetU6_1 Pin=U11-6
+Removed Pin From Net: NetName=NetU7_1 Pin=U11-7
+Removed Pin From Net: NetName=NetU8_1 Pin=U11-8
+Removed Pin From Net: NetName=NetU9_1 Pin=U11-9
+Removed Pin From Net: NetName=NetU10_1 Pin=U11-10
+Change Component Comment : Designator=U11 Old Comment=MAX11642EEG New Comment=MAX11643EEG
+Change Component Description : Designator=D1 Old Description=LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA New Description=
+LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA
+
+Change Component Description : Designator=D2 Old Description=LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA New Description=
+LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA
+
+Added Pin To Net: NetName=NetU10_1 Pin=U11-1
+Added Pin To Net: NetName=NetU9_1 Pin=U11-2
+Added Pin To Net: NetName=NetU8_1 Pin=U11-3
+Added Pin To Net: NetName=NetU7_1 Pin=U11-4
+Added Pin To Net: NetName=NetU6_1 Pin=U11-5
+Added Pin To Net: NetName=NetU5_1 Pin=U11-6
+Added Pin To Net: NetName=NetU4_1 Pin=U11-7
+Added Pin To Net: NetName=NetU3_1 Pin=U11-8
+Added Pin To Net: NetName=NetU2_1 Pin=U11-9
+Added Pin To Net: NetName=NetU1_1 Pin=U11-10

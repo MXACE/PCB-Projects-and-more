@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\Users\Marco\OneDrive - TBZ\_arbeit\duckieshelf\pcb\USB_HUB_CONNECTOR\USB_HUB_CONNECTOR\PCB Project Outputs\Pick Place\Pick Place for connector-pcb.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02.11.20
+Time:       13:42
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment      Layer    Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                    
+J1         "USB A 2.0"  TopLayer 0480372100            7.0000       21.4240      180      "Type A, USB 2.0, 1 A, Vertical, Through Hole, USB Receptacle" 
+P1         "header 4x1" TopLayer 4x1,_2.54mm,_smd_side 25.8570      8.1026       180      ""                                                             

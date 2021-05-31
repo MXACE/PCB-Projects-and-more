@@ -1,0 +1,36 @@
+Change Component Description : Designator=D1 Old Description=LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA New Description=
+LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA
+
+Change Component Description : Designator=D2 Old Description=LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA New Description=
+LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA
+
+Added Pin To Net: NetName=NetJ1_4 Pin=P1-2
+Added Pin To Net: NetName=NetP1_4 Pin=P1-3
+Added Pin To Net: NetName=NetJ2_4 Pin=P2-2
+Added Pin To Net: NetName=NetP2_4 Pin=P2-3
+Added Pin To Net: NetName=NetJ3_4 Pin=P3-2
+Added Pin To Net: NetName=NetP3_4 Pin=P3-3
+Added Pin To Net: NetName=NetJ4_4 Pin=P4-2
+Added Pin To Net: NetName=NetP4_4 Pin=P4-3
+Added Pin To Net: NetName=NetJ5_4 Pin=P5-2
+Added Pin To Net: NetName=NetP5_4 Pin=P5-3
+Added Pin To Net: NetName=NetJ6_4 Pin=P6-2
+Added Pin To Net: NetName=NetP6_4 Pin=P6-3
+Added Pin To Net: NetName=NetJ7_4 Pin=P7-2
+Added Pin To Net: NetName=NetP7_4 Pin=P7-3
+Added Pin To Net: NetName=NetJ8_4 Pin=P8-2
+Added Pin To Net: NetName=NetP8_4 Pin=P8-3
+Added Pin To Net: NetName=NetJ9_4 Pin=P9-2
+Added Pin To Net: NetName=NetP9_4 Pin=P9-3
+Added Pin To Net: NetName=NetJ10_4 Pin=P10-2
+Added Pin To Net: NetName=NetP10_4 Pin=P10-3
+Change Net Name : Old Net Name=NetP1_4 New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetP2_4 New Net Name=NetP2_3
+Change Net Name : Old Net Name=NetP3_4 New Net Name=NetP3_3
+Change Net Name : Old Net Name=NetP4_4 New Net Name=NetP4_3
+Change Net Name : Old Net Name=NetP5_4 New Net Name=NetP5_3
+Change Net Name : Old Net Name=NetP6_4 New Net Name=NetP6_3
+Change Net Name : Old Net Name=NetP7_4 New Net Name=NetP7_3
+Change Net Name : Old Net Name=NetP8_4 New Net Name=NetP8_3
+Change Net Name : Old Net Name=NetP9_4 New Net Name=NetP9_3
+Change Net Name : Old Net Name=NetP10_4 New Net Name=NetP10_3

@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES_0603i_1608m -N New Footprint=RES_0805i_2012m -N
+Change Component Footprint: Designator=R2 Old Footprint=RES_0603i_1608m -N New Footprint=RES_0805i_2012m -N
+Change Component Footprint: Designator=R3 Old Footprint=RES_0603i_1608m -N New Footprint=RES_0805i_2012m -N
+Change Component Footprint: Designator=R4 Old Footprint=RES_0603i_1608m -N New Footprint=RES_0805i_2012m -N
+Change Component Footprint: Designator=R5 Old Footprint=RES_0603i_1608m -N New Footprint=RES_0805i_2012m -N
+Change Component Footprint: Designator=R6 Old Footprint=RES_0603i_1608m -N New Footprint=RES_0805i_2012m -N
+Change Component Footprint: Designator=R7 Old Footprint=RES_0603i_1608m -N New Footprint=RES_0805i_2012m -N
+Change Component Footprint: Designator=R8 Old Footprint=RES_0603i_1608m -N New Footprint=RES_0805i_2012m -N
+Change Component Footprint: Designator=R9 Old Footprint=RES_0603i_1608m -N New Footprint=RES_0805i_2012m -N
+Change Component Footprint: Designator=R10 Old Footprint=RES_0603i_1608m -N New Footprint=RES_0805i_2012m -N
+Change Component Description : Designator=D1 Old Description=LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA New Description=
+LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA
+
+Change Component Description : Designator=D2 Old Description=LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA New Description=
+LED; SMD; 0603; gr�n; 35mcd; 1.6x0.8x0.55mm; 130°; 2÷2.V; 20mA
+

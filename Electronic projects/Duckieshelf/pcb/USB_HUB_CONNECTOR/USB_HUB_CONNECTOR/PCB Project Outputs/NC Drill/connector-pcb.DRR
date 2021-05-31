@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: connector-pcb.PcbDoc   02.11.2020  13:41:56
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : connector-pcb-RoundHoles.TXT
+ASCII SlotHoles File : connector-pcb-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             70        PTH        0.00mm (0.00inch)
+T2      0.7mm (28mil)                                             Slot              2         PTH        0.00mm (0.00inch)
+T3      1.1mm (43mil)                                             Round             2         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              74
+
+Total Processing Time (hh:mm:ss) : 00:00:00

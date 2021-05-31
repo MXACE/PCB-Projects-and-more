@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=NetJ7_4 Pin=P7-1
+Removed Pin From Net: NetName=NetJ7_4 Pin=P7-2
+Removed Pin From Net: NetName=NetJ8_4 Pin=P8-1
+Removed Pin From Net: NetName=NetJ8_4 Pin=P8-2
+Removed Pin From Net: NetName=NetJ9_4 Pin=P9-1
+Removed Pin From Net: NetName=NetJ9_4 Pin=P9-2
+Removed Pin From Net: NetName=NetJ10_4 Pin=P10-1
+Removed Pin From Net: NetName=NetJ10_4 Pin=P10-2
+Removed Pin From Net: NetName=NetP7_3 Pin=R7-1
+Removed Pin From Net: NetName=NetP8_3 Pin=R8-1
+Removed Pin From Net: NetName=NetP9_3 Pin=R9-1
+Removed Pin From Net: NetName=NetP10_3 Pin=R10-1
+Removed Pin From Net: NetName=NetP7_3 Pin=U7-3
+Removed Pin From Net: NetName=NetP8_3 Pin=U8-3
+Removed Pin From Net: NetName=NetP9_3 Pin=U9-3
+Removed Pin From Net: NetName=NetP10_3 Pin=U10-3
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=4x1, 2.54mm, smd
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X4 New Footprint=4x1, 2.54mm, smd
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X4 New Footprint=4x1, 2.54mm, smd
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X4 New Footprint=4x1, 2.54mm, smd
+Change Component Footprint: Designator=P5 Old Footprint=HDR1X4 New Footprint=4x1, 2.54mm, smd
+Change Component Footprint: Designator=P6 Old Footprint=HDR1X4 New Footprint=4x1, 2.54mm, smd
+Change Component Footprint: Designator=P7 Old Footprint=HDR1X4 New Footprint=4x1, 2.54mm, smd
+Change Component Footprint: Designator=P8 Old Footprint=HDR1X4 New Footprint=4x1, 2.54mm, smd
+Change Component Footprint: Designator=P9 Old Footprint=HDR1X4 New Footprint=4x1, 2.54mm, smd
+Change Component Footprint: Designator=P10 Old Footprint=HDR1X4 New Footprint=4x1, 2.54mm, smd
+Change Component Comment : Designator=P1 Old Comment=Header 4 New Comment=header 4x1
+Change Component Comment : Designator=P2 Old Comment=Header 4 New Comment=header 4x1
+Change Component Comment : Designator=P3 Old Comment=Header 4 New Comment=header 4x1
+Change Component Comment : Designator=P4 Old Comment=Header 4 New Comment=header 4x1
+Change Component Comment : Designator=P5 Old Comment=Header 4 New Comment=header 4x1
+Change Component Comment : Designator=P6 Old Comment=Header 4 New Comment=header 4x1
+Change Component Comment : Designator=P7 Old Comment=Header 4 New Comment=header 4x1
+Change Component Comment : Designator=P8 Old Comment=Header 4 New Comment=header 4x1
+Change Component Comment : Designator=P9 Old Comment=Header 4 New Comment=header 4x1
+Change Component Comment : Designator=P10 Old Comment=Header 4 New Comment=header 4x1
+Change component parameters: Designator = "P1"; Footprint = "4x1, 2.54mm, smd"; UniqueID = "\DVXAFSYT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "P2"; Footprint = "4x1, 2.54mm, smd"; UniqueID = "\VUSNRWQE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "P3"; Footprint = "4x1, 2.54mm, smd"; UniqueID = "\JLVLPIKK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "P4"; Footprint = "4x1, 2.54mm, smd"; UniqueID = "\EJBOIDZO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "P5"; Footprint = "4x1, 2.54mm, smd"; UniqueID = "\ZNTLDLVW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "P6"; Footprint = "4x1, 2.54mm, smd"; UniqueID = "\BFDHWZLB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "P7"; Footprint = "4x1, 2.54mm, smd"; UniqueID = "\EISBMGXD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "P8"; Footprint = "4x1, 2.54mm, smd"; UniqueID = "\VCYKUYDS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "P9"; Footprint = "4x1, 2.54mm, smd"; UniqueID = "\OILTJCTX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "P10"; Footprint = "4x1, 2.54mm, smd"; UniqueID = "\YTMXWDIK"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ8_4 Pin=P7-1
+Added Pin To Net: NetName=NetJ8_4 Pin=P7-2
+Added Pin To Net: NetName=NetJ9_4 Pin=P8-1
+Added Pin To Net: NetName=NetJ9_4 Pin=P8-2
+Added Pin To Net: NetName=NetJ10_4 Pin=P9-1
+Added Pin To Net: NetName=NetJ10_4 Pin=P9-2
+Added Pin To Net: NetName=NetJ7_4 Pin=P10-1
+Added Pin To Net: NetName=NetJ7_4 Pin=P10-2
+Added Pin To Net: NetName=NetP10_3 Pin=R7-1
+Added Pin To Net: NetName=NetP7_3 Pin=R8-1
+Added Pin To Net: NetName=NetP8_3 Pin=R9-1
+Added Pin To Net: NetName=NetP9_3 Pin=R10-1
+Added Pin To Net: NetName=NetP10_3 Pin=U7-3
+Added Pin To Net: NetName=NetP7_3 Pin=U8-3
+Added Pin To Net: NetName=NetP8_3 Pin=U9-3
+Added Pin To Net: NetName=NetP9_3 Pin=U10-3

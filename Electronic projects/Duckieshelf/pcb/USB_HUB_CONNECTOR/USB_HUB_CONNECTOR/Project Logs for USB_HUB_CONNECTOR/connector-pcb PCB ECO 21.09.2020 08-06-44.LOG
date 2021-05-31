@@ -1,0 +1,27 @@
+Added Component: Designator=J1(0480372100)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/interconnect/connectors/usb-connectors/uj2-av-th-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "102-5880-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2779619"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2779619"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UJ2-AV-2-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UJ2-AV-2-TH/CUI%20Devices/view-part/2779619/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(4x1, 2.54mm, smd side)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=P1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=P1-4
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-SH
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-SH
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-SH
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-SH
+Added Pin To Net: NetName=NetJ1_4 Pin=P1-1
+Added Pin To Net: NetName=NetJ1_4 Pin=P1-3
+Added Net: Name=NetJ1_4
+Added Class: Name=connector-schematic
+Added Room: Name=connector-schematic
